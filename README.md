@@ -8,7 +8,7 @@
   <br>
   <details>
     <p align="center">
-  <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?bg_color=000000" />
+  <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?bg_color=101414" />
   <br>
   <br>
   <img src = "https://codestats-readme.avior.me/api?username=postpone&show_icons=true&theme=dark">
