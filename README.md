@@ -10,11 +10,8 @@
   <details>
     <p align="center">
   <br>
-  <br>
-  <img src="https://api.githubtrends.io/user/svg/Csus4UwU/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Csus4UwU&layout=compact&langs_count=16&theme=dark" />
-    <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?bg_color=101414" />
+  <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?bg_color=101414&text_color=f5f5f5&max_language=15" />
     </p>
   </details>
 </p>
