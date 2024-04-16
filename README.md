@@ -9,10 +9,12 @@
   <br>
   <details>
     <p align="center">
-  <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?bg_color=101414" />
   <br>
   <br>
-  <img src = "https://codestats-readme.avior.me/api?username=postpone&show_icons=true&theme=dark">
+  <img src="https://api.githubtrends.io/user/svg/Csus4UwU/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Csus4UwU&layout=compact&langs_count=16&theme=dark" />
+    <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?bg_color=101414" />
     </p>
   </details>
 </p>
