@@ -11,7 +11,7 @@
     <p align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Csus4UwU&layout=compact&langs_count=8&theme=dark" />
-  <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?width=800&height=300&timezone=08:00&history_days=30&max_languages=7&bg_color=101414&grid_color=101414&zeroline_color=ffffff&language_colors=[%22ffd720%22,%22ffc8dd%22,%22ffafcc%22,%22bde0fe%22,%22a2d2ff%22,%22b9fbc0%22,%22fdffb6%22,%22f0e6ef%22,%22b5c99a%22]">
+  <img src="https://codestats-readme.wegfan.cn/history-graph/postpone?width=800&height=300&timezone=08:00&history_days=30&max_languages=7&bg_color=101414&grid_color=101414&zeroline_color=ffffff&language_colors=[%22FFCCCC%22,%22ffc8dd%22,%22ffafcc%22,%22bde0fe%22,%22a2d2ff%22,%22b9fbc0%22,%22fdffb6%22,%22f0e6ef%22,%22b5c99a%22]">
     </p>
   </details>
 </p>
