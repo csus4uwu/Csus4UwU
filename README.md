@@ -1,7 +1,8 @@
 <p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/don't-postpone-DDA0DD?style=flat-square&logo=codeforces&logoColor=e5c7ff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fpostpone">
   <img src="https://img.shields.io/badge/dynamic/json?label=Code%3A%3AStats&query=%24.total_xp&url=https%3A%2F%2Fcodestats.net%2Fapi%2Fusers%2Fpostpone&style=flat-square&color=ffcce0"/>
   <img src="https://wakatime.com/badge/user/018ec974-669b-45f8-b379-3fa76ebf450f.svg?style=flat-square&color=ffd1ab"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/hello-world!-ffc8a8?style=flat-square">
+
   <br>
   <br>
   <img src="/pic/uwu.gif" alt="hi! UwU" width=330px>
